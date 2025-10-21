@@ -9,4 +9,5 @@ def rastrigin(x):
     A = 10
     x = np.array(x)
     n = len(x)
-    return A * n + np.sum(x**2 - A * np.cos(2 * np.pi * x))
+    value = A * n + np.sum(x**2 - A * np.cos(2 * np.pi * x))
+    return value,
