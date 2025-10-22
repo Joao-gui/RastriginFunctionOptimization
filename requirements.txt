@@ -1,0 +1,46 @@
+asttokens @ file:///croot/asttokens_1743630435401/work
+comm @ file:///croot/comm_1709322850197/work
+contourpy @ file:///croot/contourpy_1732540045555/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+deap @ file:///home/conda/feedstock_root/build_artifacts/deap_1645383007844/work
+debugpy @ file:///home/task_175706711740264/conda-bld/debugpy_1757067131873/work
+decorator @ file:///home/task_175734097812358/conda-bld/decorator_1757341231906/work
+exceptiongroup @ file:///croot/exceptiongroup_1706031385326/work
+executing @ file:///home/task_175706097762404/conda-bld/executing_1757061230060/work
+fonttools @ file:///home/task_175975444451365/conda-bld/fonttools_1759754870571/work
+ipykernel @ file:///home/task_175758317055216/conda-bld/ipykernel_1757583366251/work
+ipython @ file:///croot/ipython_1734548052611/work
+jedi @ file:///croot/jedi_1733987392413/work
+jupyter_client @ file:///croot/jupyter_client_1737570961872/work
+jupyter_core @ file:///croot/jupyter_core_1751991368470/work
+kiwisolver @ file:///croot/kiwisolver_1737039087198/work
+matplotlib==3.10.6
+matplotlib-inline @ file:///home/task_175851935243965/conda-bld/matplotlib-inline_1758520102257/work
+mkl-service==2.4.0
+mkl_fft @ file:///io/mkl313/mkl_fft_1730824109137/work
+mkl_random @ file:///io/mkl313/mkl_random_1730823916628/work
+nest-asyncio @ file:///croot/nest-asyncio_1708532673751/work
+numpy @ file:///croot/numpy_and_numpy_base_1725470312869/work/dist/numpy-2.0.1-cp310-cp310-linux_x86_64.whl#sha256=120568f3fd675f59e4cb6de79a5c193b4067d90878d8bab2040fda8e3a2df6fa
+packaging @ file:///croot/packaging_1753775359799/work
+parso @ file:///croot/parso_1733963305961/work
+pexpect @ file:///croot/pexpect_1750072593878/work
+pillow @ file:///croot/pillow_1752524526621/work
+platformdirs @ file:///croot/platformdirs_1744273042065/work
+prompt_toolkit @ file:///home/task_176037557820381/conda-bld/prompt-toolkit_1760375634618/work
+psutil @ file:///home/task_175710406307107/conda-bld/psutil_1757104540420/work
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pure_eval @ file:///home/task_175706683913895/conda-bld/pure_eval_1757067047727/work
+Pygments @ file:///croot/pygments_1744664109463/work
+pyparsing @ file:///croot/pyparsing_1731445506121/work
+PyQt6==6.9.1
+PyQt6_sip @ file:///home/task_175751008770153/conda-bld/pyqt-split_1757511022671/work/pyqt_sip
+python-dateutil @ file:///croot/python-dateutil_1716495738603/work
+pyzmq @ file:///home/task_175810350577126/conda-bld/pyzmq_1758103934957/work
+sip @ file:///croot/sip_1756223371714/work
+six @ file:///croot/six_1744271502820/work
+stack_data @ file:///home/task_175706683891681/conda-bld/stack_data_1757067036413/work
+tomli @ file:///croot/tomli_1753774587605/work
+tornado @ file:///croot/tornado_1748956929273/work
+traitlets @ file:///croot/traitlets_1718227057033/work
+typing_extensions @ file:///croot/typing_extensions_1756280817316/work
+wcwidth @ file:///croot/wcwidth_1750352883074/work
